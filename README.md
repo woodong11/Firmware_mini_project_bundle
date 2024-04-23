@@ -24,9 +24,7 @@ Bread Board에 버튼 2개와 LED3개를 연결하고, <br>
 PC5, PC6, PC8을 LED1, LED2, LED3로 설정 <br>
 PA11, PA12를  BTN1, BTN2로 설정하고 GPIO설정에서 pull up으로 설정 <br>
 
-![도전3](https://github.com/woodong11/STM32_Firmware_mini_project_bundle/assets/91379630/56a93127-0cfa-45d7-ac4f-e33100363b4b)
-
-<br><br>
+<img src = "https://github.com/woodong11/STM32_Firmware_mini_project_bundle/assets/91379630/56a93127-0cfa-45d7-ac4f-e33100363b4b" width="60%" height="60%"><br><br>
 
 
 ## UART_LED_Blink
@@ -38,9 +36,9 @@ ex) 숫자 4를 입력하면 LED 전체가 4번 깜빡임
 
 <h4> Pinout MAP </h4>
 PC5, PC6, PC8을 LED1, LED2, LED3로 설정 <br>
-![도전4_1](https://github.com/woodong11/STM32_Firmware_mini_project_bundle/assets/91379630/acfb6497-d710-44de-8821-9b4ea6e50b40)
 
-<br><br>
+<img src = "https://github.com/woodong11/STM32_Firmware_mini_project_bundle/assets/91379630/acfb6497-d710-44de-8821-9b4ea6e50b40" width="60%" height="60%"><br><br>
+
 
 
 
