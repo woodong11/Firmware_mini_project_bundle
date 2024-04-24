@@ -44,7 +44,27 @@ PC5, PC6, PC8을 LED1, LED2, LED3로 설정 <br>
 
 
 
+## LED_Interrupt.c
+![도전2](https://github.com/woodong11/Firmware_mini_project_bundle/assets/91379630/b176af64-aac3-404a-a18f-e23e21baeae1)
 
+버튼1 누르면, LED1 무한 blink
+• 버튼2 누르면, LED2 무한 blink
+우선순위 변경 가능
+
+## LED_timmer_interrupt.c
+![도전4](https://github.com/woodong11/Firmware_mini_project_bundle/assets/91379630/db09854a-97ec-480b-80fc-e17360f2a8be)
+![도전4_1](https://github.com/woodong11/Firmware_mini_project_bundle/assets/91379630/c83b7568-a35b-4f8a-9da8-9cf893197f37)
+
+LED 3개를 Bread board 에 연결한다.
+• LED1 : 0.5s 에 한번 blink
+• LED2 : 0.3s 에 한번 blink
+• LED3 : 0.7s 에 한번 blink
+
+## ADC_visualization
+![도전5](https://github.com/woodong11/Firmware_mini_project_bundle/assets/91379630/5cf647e2-8413-4430-8898-532b73f314df)
+![도전5_graph](https://github.com/woodong11/Firmware_mini_project_bundle/assets/91379630/4c1c20e5-ea00-4539-9147-0abd805614ef)
+
+ADC Value 와 Volt 그래프 비쥬얼
 
 
 
