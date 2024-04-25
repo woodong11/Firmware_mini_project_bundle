@@ -3,15 +3,19 @@ STM32와 Renesas의 Eval Board로 Firmware를 개발한 미니 프로젝트입�
 
 
 ## Require
-<h4> 사용한 stm보드 </h4>
+<h4> 사용한 stm보드: Nucleo-F103RB </h4>
 
 ![뉴클레오](https://github.com/woodong11/STM32_Firmware_mini_project_bundle/assets/91379630/f4d60532-a8df-4046-8c66-b8abfcd6ec66)
 <br><br>
-보드 이름 : Nucleo <br>
-보드 모델명 : Nucleo-F103RB <br>
-ST사의 CPU 칩셋 이름 : STM32F103RB <br>
-CPU 설계 : ARM Cortex-M3 <br>
+MCU 이름 : STM32F103RB <br>
+MCU 정보 : ARM Cortex-M3 <br>
 
+<h4> 사용한 르네사스 보드: RA6E1  </h4>
+
+MCU 이름 :  R7FA6E10F2CFP <br>
+MCU 정보 : ARM Cortex - M33 계열, 200MHz <br>
+-> RAM size : 256KB SRAM <br>
+-> Flash size : 1MB까지 코드 저장 가능한 flash memory <br>
 
 
 ## LED_and_Swtich
