@@ -11,6 +11,7 @@ MCU 이름 : STM32F103RB <br>
 MCU 정보 : ARM Cortex-M3 <br>
 
 <h4> 사용한 르네사스 보드: RA6E1  </h4>
+![image](https://github.com/woodong11/Firmware_mini_project_bundle/assets/91379630/c710287a-0540-4d94-97de-a81dbb3e7d19)
 
 MCU 이름 :  R7FA6E10F2CFP <br>
 MCU 정보 : ARM Cortex - M33 계열, 200MHz <br>
