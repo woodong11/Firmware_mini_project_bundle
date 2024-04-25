@@ -8,15 +8,17 @@ STM32와 Renesas의 Eval Board로 Firmware를 개발한 미니 프로젝트입�
 ![뉴클레오](https://github.com/woodong11/STM32_Firmware_mini_project_bundle/assets/91379630/f4d60532-a8df-4046-8c66-b8abfcd6ec66)
 <br><br>
 MCU 이름 : STM32F103RB <br>
-MCU 정보 : ARM Cortex-M3 <br>
+MCU 정보 : ARM Cortex-M3 계열, 72MHz <br>
+- RAM size : 20KB SRAM <br>
+- Flash size : 128KB flash memory <br>
 
 <h4> 사용한 르네사스 보드: RA6E1  </h4>
-![image](https://github.com/woodong11/Firmware_mini_project_bundle/assets/91379630/c710287a-0540-4d94-97de-a81dbb3e7d19)
+<img src = "https://github.com/woodong11/Firmware_mini_project_bundle/assets/91379630/c710287a-0540-4d94-97de-a81dbb3e7d19" width="30%" height="30%"><br><br>
 
 MCU 이름 :  R7FA6E10F2CFP <br>
 MCU 정보 : ARM Cortex - M33 계열, 200MHz <br>
--> RAM size : 256KB SRAM <br>
--> Flash size : 1MB까지 코드 저장 가능한 flash memory <br>
+- RAM size : 256KB SRAM <br>
+- Flash size : 1MB flash memory <br>
 
 
 ## LED_and_Swtich
@@ -67,13 +69,15 @@ LED 3개를 Bread board 에 연결한다.
 
 ## ADC_visualization
 ![도전5](https://github.com/woodong11/Firmware_mini_project_bundle/assets/91379630/5cf647e2-8413-4430-8898-532b73f314df)
-![도전5_graph](https://github.com/woodong11/Firmware_mini_project_bundle/assets/91379630/4c1c20e5-ea00-4539-9147-0abd805614ef)
+<img src = "https://github.com/woodong11/Firmware_mini_project_bundle/assets/91379630/4c1c20e5-ea00-4539-9147-0abd805614ef" width="60%" height="60%"><br><br>
 
 ADC Value 와 Volt 그래프 비쥬얼
 
 
 
 
+## ddd
+![Uploading image.png…]()
 
 
 
